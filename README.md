@@ -2,7 +2,7 @@
 
 **Machine Learning**
 
-Olá! Eu me chamo Cauê Freitas. Sou um estudante de Machine Learning.
+Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Learning. Eu estou no ensino médio, mas estou começando como autodidata e quero começar a fazer faculdade. Sou apaixonado por tecnologia desde novo e atualmente procuro ao máximo aprender novas habilidades e estar disposto a resolver problemas de forma lógica e eficaz.
 
 <a href="https://github.com/ImagineRavens02?tab=repositories&sort=stargazers">
     <img 
