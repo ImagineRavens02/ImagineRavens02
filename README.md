@@ -28,18 +28,13 @@ Olá! Eu me chamo Cauê Freitas. Sou um estudante de Machine Learning.
 </div>
 
 ### 📊 Estatísticas
-<div>
-    <img 
-        alt="GitHub Stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=ImagineRavens02&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-    <img 
-        alt="GitHub Stats" 
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineRavens02&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-</div>
+
+<a href="https://github.com/ImagineRavens02/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ImagineRavens02" />
+</a>
+<a href="https://github.com/ImagineRavens02/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ImagineRavens02&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 
