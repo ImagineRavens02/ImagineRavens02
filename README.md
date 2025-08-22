@@ -21,9 +21,7 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Lea
 </a>
 
 ### 💻 Linguagens e Tecnologias
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ### 📊 Estatísticas
