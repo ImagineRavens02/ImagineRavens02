@@ -27,9 +27,9 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Lea
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
-[![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)](https://grok.x.ai/)
-[![DeepSeek](https://img.shields.io/badge/DeepSeek-0055ff?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)](https://deepseek.com/)
-[![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-00A4EF?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAA...)](https://copilot.microsoft.com/)
+[![Grok](https://img.shields.io/badge/Grok-006093?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/)
+[![DeepSeek](https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=github&logoColor=white)](https://www.deepseek.com/)
+[![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://copilot.microsoft.com/)
 [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
