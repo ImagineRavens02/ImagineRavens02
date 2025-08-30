@@ -26,9 +26,14 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Lea
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com/)
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.ai/)
 [![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)](https://gemini.google.com/)
+[![Grok](https://img.shields.io/badge/Grok-8a2be2?style=for-the-badge&logo=x&logoColor=white)](https://grok.x.ai/)
+[![Deepseek](https://img.shields.io/badge/Deepseek-0066cc?style=for-the-badge&logo=deepseek&logoColor=white)](https://deepseek.com/)
+[![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078d4?style=for-the-badge&logo=microsoft&logoColor=white)](https://copilot.microsoft.com/)
 [![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)](https://www.perplexity.ai/)
 [![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+
+
 
 ### 📊 Estatísticas
 
