@@ -28,9 +28,10 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Lea
 
 ### 📱 Redes sociais 
 
-![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/u/PensadorGenial/s/LuZd0deWo1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caue_freitasoficial?utm_source=qr&igsh=ZTZzMHp2dHA1bDdr)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/RavensClock?t=RSun7bRC32ENZQhvhtZ9SQ&s=08)
+
 
 ### 📊 Estatísticas
 
