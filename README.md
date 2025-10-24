@@ -29,9 +29,6 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Lea
 ### 📱 Redes sociais 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caue_freitasoficial?utm_source=qr&igsh=ZTZzMHp2dHA1bDdr)
-![Email Badge](https://img.shields.io/badge/jokz3995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-
 
 
 ### 📊 Estatísticas
