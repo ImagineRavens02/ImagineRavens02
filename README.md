@@ -32,11 +32,4 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de Machine Lea
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokz3995@gmail.com)
 
 
-### 📊 Estatísticas
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImagineRavens02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" height=150  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineRavens02&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height=150  />
-</div>
-
 
