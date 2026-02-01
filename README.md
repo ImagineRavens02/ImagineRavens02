@@ -1,9 +1,8 @@
 # 👨‍💻 Cauê Freitas
 
 
-**Data Science**
 
-Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de ciência de dados. Eu estou terminando o ensino médio, mas estou começando como autodidata e quero começar a fazer faculdade. Sou apaixonado por tecnologia desde novo e atualmente procuro ao máximo aprender novas habilidades e estar disposto a resolver problemas da forma lógica e eficaz possível!
+Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de programação. Eu estou terminando o ensino médio, mas estou começando como autodidata e quero começar a fazer faculdade. Sou apaixonado por tecnologia desde novo e atualmente procuro ao máximo aprender novas habilidades e estar disposto a resolver problemas da forma lógica e eficaz possível!
 
 <a href="https://github.com/ImagineRavens02?tab=repositories&sort=stargazers">
     <img 
