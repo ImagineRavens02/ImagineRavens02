@@ -22,10 +22,4 @@ Olá! Eu me chamo Cauê Freitas, tenho 18 anos e sou um estudante de programaç�
 ### 💻 Linguagens e Tecnologias
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
-### 📱 Contatos
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/caue_freitasoficial?utm_source=qr&igsh=ZTZzMHp2dHA1bDdr)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokz3995@gmail.com)
-
-
 
