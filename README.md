@@ -13,9 +13,6 @@ Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e 
     />
 </a>
 
-![GitHub Stars](https://img.shields.io/github/stars/ImagineRavens02?style=for-the-badge&logo=github&label=Stars&color=yellow)
-
-
 ### 💻 Linguagens e Tecnologias
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -27,3 +24,15 @@ Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e 
 ### 📱 Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-@caue__freitasoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caue_freitasoficial)
 [![Gmail](https://img.shields.io/badge/Gmail-jokz3995%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokz3995@gmail.com)
+
+## 📊 Estatísticas GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImagineRavens02&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ImagineRavens02&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineRavens02&layout=compact&theme=tokyonight)
+
+## 🏆 Conquistas
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ImagineRavens02&theme=tokyonight&margin-w=15)
