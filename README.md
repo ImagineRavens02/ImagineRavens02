@@ -19,6 +19,5 @@ Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e 
 ### 📊 Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImagineRavens02&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=ImagineRavens02&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineRavens02&layout=compact&theme=tokyonight)
 
