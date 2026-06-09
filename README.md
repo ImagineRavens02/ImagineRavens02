@@ -3,7 +3,7 @@
 
 
 Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e desenvolvimento de sistemas. Eu estou terminando o ensino médio, mas estou começando como autodidata e quero começar a fazer faculdade. Sou apaixonado por tecnologia desde criança e atualmente procuro ao máximo aprender novas habilidades e estar disposto a resolver problemas da forma mais lógica e eficaz possível!
-    />
+
 </a>
 <a href="https://github.com/ImagineRavens02?tab=followers">
     <img 
