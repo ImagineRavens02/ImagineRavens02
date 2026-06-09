@@ -16,7 +16,7 @@ Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e 
 [![Instagram](https://img.shields.io/badge/Instagram-@caue__freitasoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caue_freitasoficial)
 [![Gmail](https://img.shields.io/badge/Gmail-jokz3995%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokz3995@gmail.com)
 
-## 📊 Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImagineRavens02&show_icons=true&theme=tokyonight)
 
