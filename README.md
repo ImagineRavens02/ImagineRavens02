@@ -4,7 +4,7 @@
 
 Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e desenvolvimento de sistemas. Eu estou terminando o ensino médio, mas estou começando como autodidata e quero começar a fazer faculdade. Sou apaixonado por tecnologia desde criança e atualmente procuro ao máximo aprender novas habilidades e estar disposto a resolver problemas da forma mais lógica e eficaz possível!
 
-<img width="500" height="250" alt="𝓛𝓲𝓷 - Anime Gifs (Desing)" src="https://github.com/user-attachments/assets/7981e2e1-585c-415c-84d4-faab71466684" />
+<img width="500" height="230" alt="𝓛𝓲𝓷 - Anime Gifs (Desing)" src="https://github.com/user-attachments/assets/7981e2e1-585c-415c-84d4-faab71466684" />
 
 
 
