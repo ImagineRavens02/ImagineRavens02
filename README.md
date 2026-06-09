@@ -19,8 +19,6 @@ Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<img width="480" height="480" alt="giphy" src="https://github.com/user-attachments/assets/084c0d9f-8b55-413d-9533-f0dc99f0233e" />
-
 ### 📱 Contatos
 [![Instagram](https://img.shields.io/badge/Instagram-@caue__freitasoficial-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caue_freitasoficial)
 [![Gmail](https://img.shields.io/badge/Gmail-jokz3995%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jokz3995@gmail.com)
@@ -33,6 +31,3 @@ Olá! Eu me chamo Cauê Freitas, tenho 19 anos e sou um estudante de análise e 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImagineRavens02&layout=compact&theme=tokyonight)
 
-## 🏆 Conquistas
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ImagineRavens02&theme=tokyonight&margin-w=15)
